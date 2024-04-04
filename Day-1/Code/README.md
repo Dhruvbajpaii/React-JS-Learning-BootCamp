@@ -1,29 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Hello React</title>
-    <link rel="stylesheet" href="./index.css" />
-  </head>
-  <body>
-    <h4>hey on the top of root</h4>
-    <div id="root">
-      <h1>Vasu is here</h1>
-      <!-- this will further replaced by parent element while rendering -->
-    </div>
-    <h4>hey on below the root</h4>
 
-    <script
-      crossorigin
-      src="https://unpkg.com/react@18/umd/react.development.js"
-    ></script>
-    <script
-      crossorigin
-      src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"
-    ></script>
 
-    <script src="./App.js"></script>
-  </body>
-</html>
+# _Day 01
+
+## Coding :
+
+- Set up all the `tools in your laptop`
+  - `VS Code`
+  - `Chrome`
+  - `Extensions of Chrome`
+- Create a `new Git repo`
+- Build your `first Hello World` program using,
+  - Using `just HTML`
+  - Using `JS to manipulate the DOM`
+  - Using `React`
+    - `use CDN Links`
+    - `Create an Element`
+    - `Create nested React Elements`
+    - `Use root.render`
